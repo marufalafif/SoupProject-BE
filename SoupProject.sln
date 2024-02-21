@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoupProject", "SoupProject\SoupProject.csproj", "{D3BC569A-FE4A-4FE8-9EA1-301C43CCE9CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3BC569A-FE4A-4FE8-9EA1-301C43CCE9CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3BC569A-FE4A-4FE8-9EA1-301C43CCE9CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3BC569A-FE4A-4FE8-9EA1-301C43CCE9CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3BC569A-FE4A-4FE8-9EA1-301C43CCE9CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D9215E60-4B82-4C76-97A6-245E9FEF536F}
+	EndGlobalSection
+EndGlobal

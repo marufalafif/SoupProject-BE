@@ -1,0 +1,129 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\SYAHRUL\\OneDrive\\Desktop\\SoupProjectApi\\SoupProject\\wwwroot\\Images\\bca_20240217181549630.png",
+      "PackagePath": "staticwebassets\\Images\\bca_20240217181549630.png"
+    },
+    {
+      "Id": "C:\\Users\\SYAHRUL\\OneDrive\\Desktop\\SoupProjectApi\\SoupProject\\wwwroot\\Images\\biskuit_20240217174346261.png",
+      "PackagePath": "staticwebassets\\Images\\biskuit_20240217174346261.png"
+    },
+    {
+      "Id": "C:\\Users\\SYAHRUL\\OneDrive\\Desktop\\SoupProjectApi\\SoupProject\\wwwroot\\Images\\bni_20240217181519408.png",
+      "PackagePath": "staticwebassets\\Images\\bni_20240217181519408.png"
+    },
+    {
+      "Id": "C:\\Users\\SYAHRUL\\OneDrive\\Desktop\\SoupProjectApi\\SoupProject\\wwwroot\\Images\\bolu_20240217174704587.png",
+      "PackagePath": "staticwebassets\\Images\\bolu_20240217174704587.png"
+    },
+    {
+      "Id": "C:\\Users\\SYAHRUL\\OneDrive\\Desktop\\SoupProjectApi\\SoupProject\\wwwroot\\Images\\bubur_20240217175951233.png",
+      "PackagePath": "staticwebassets\\Images\\bubur_20240217175951233.png"
+    },
+    {
+      "Id": "C:\\Users\\SYAHRUL\\OneDrive\\Desktop\\SoupProjectApi\\SoupProject\\wwwroot\\Images\\coco_20240217172731221.png",
+      "PackagePath": "staticwebassets\\Images\\coco_20240217172731221.png"
+    },
+    {
+      "Id": "C:\\Users\\SYAHRUL\\OneDrive\\Desktop\\SoupProjectApi\\SoupProject\\wwwroot\\Images\\dana_20240217190608799.png",
+      "PackagePath": "staticwebassets\\Images\\dana_20240217190608799.png"
+    },
+    {
+      "Id": "C:\\Users\\SYAHRUL\\OneDrive\\Desktop\\SoupProjectApi\\SoupProject\\wwwroot\\Images\\desert_20240217172822326.png",
+      "PackagePath": "staticwebassets\\Images\\desert_20240217172822326.png"
+    },
+    {
+      "Id": "C:\\Users\\SYAHRUL\\OneDrive\\Desktop\\SoupProjectApi\\SoupProject\\wwwroot\\Images\\gopay_20240217181636399.png",
+      "PackagePath": "staticwebassets\\Images\\gopay_20240217181636399.png"
+    },
+    {
+      "Id": "C:\\Users\\SYAHRUL\\OneDrive\\Desktop\\SoupProjectApi\\SoupProject\\wwwroot\\Images\\ice_20240217174040821.png",
+      "PackagePath": "staticwebassets\\Images\\ice_20240217174040821.png"
+    },
+    {
+      "Id": "C:\\Users\\SYAHRUL\\OneDrive\\Desktop\\SoupProjectApi\\SoupProject\\wwwroot\\Images\\kopi_20240217173325118.png",
+      "PackagePath": "staticwebassets\\Images\\kopi_20240217173325118.png"
+    },
+    {
+      "Id": "C:\\Users\\SYAHRUL\\OneDrive\\Desktop\\SoupProjectApi\\SoupProject\\wwwroot\\Images\\mandiri_20240217181504067.png",
+      "PackagePath": "staticwebassets\\Images\\mandiri_20240217181504067.png"
+    },
+    {
+      "Id": "C:\\Users\\SYAHRUL\\OneDrive\\Desktop\\SoupProjectApi\\SoupProject\\wwwroot\\Images\\mie_20240217181146572.png",
+      "PackagePath": "staticwebassets\\Images\\mie_20240217181146572.png"
+    },
+    {
+      "Id": "C:\\Users\\SYAHRUL\\OneDrive\\Desktop\\SoupProjectApi\\SoupProject\\wwwroot\\Images\\orange_20240217185416445.png",
+      "PackagePath": "staticwebassets\\Images\\orange_20240217185416445.png"
+    },
+    {
+      "Id": "C:\\Users\\SYAHRUL\\OneDrive\\Desktop\\SoupProjectApi\\SoupProject\\wwwroot\\Images\\ovo_20240217181647782.png",
+      "PackagePath": "staticwebassets\\Images\\ovo_20240217181647782.png"
+    },
+    {
+      "Id": "C:\\Users\\SYAHRUL\\OneDrive\\Desktop\\SoupProjectApi\\SoupProject\\wwwroot\\Images\\pempek_20240217180858500.png",
+      "PackagePath": "staticwebassets\\Images\\pempek_20240217180858500.png"
+    },
+    {
+      "Id": "C:\\Users\\SYAHRUL\\OneDrive\\Desktop\\SoupProjectApi\\SoupProject\\wwwroot\\Images\\pizza_20240217173439717.png",
+      "PackagePath": "staticwebassets\\Images\\pizza_20240217173439717.png"
+    },
+    {
+      "Id": "C:\\Users\\SYAHRUL\\OneDrive\\Desktop\\SoupProjectApi\\SoupProject\\wwwroot\\Images\\ramen_20240217180520944.png",
+      "PackagePath": "staticwebassets\\Images\\ramen_20240217180520944.png"
+    },
+    {
+      "Id": "C:\\Users\\SYAHRUL\\OneDrive\\Desktop\\SoupProjectApi\\SoupProject\\wwwroot\\Images\\rendang_20240217172249242.png",
+      "PackagePath": "staticwebassets\\Images\\rendang_20240217172249242.png"
+    },
+    {
+      "Id": "C:\\Users\\SYAHRUL\\OneDrive\\Desktop\\SoupProjectApi\\SoupProject\\wwwroot\\Images\\rendang_20240217180654335.png",
+      "PackagePath": "staticwebassets\\Images\\rendang_20240217180654335.png"
+    },
+    {
+      "Id": "C:\\Users\\SYAHRUL\\OneDrive\\Desktop\\SoupProjectApi\\SoupProject\\wwwroot\\Images\\rice_20240217173217263.png",
+      "PackagePath": "staticwebassets\\Images\\rice_20240217173217263.png"
+    },
+    {
+      "Id": "C:\\Users\\SYAHRUL\\OneDrive\\Desktop\\SoupProjectApi\\SoupProject\\wwwroot\\Images\\sate_20240217181335590.png",
+      "PackagePath": "staticwebassets\\Images\\sate_20240217181335590.png"
+    },
+    {
+      "Id": "C:\\Users\\SYAHRUL\\OneDrive\\Desktop\\SoupProjectApi\\SoupProject\\wwwroot\\Images\\soto_20240217173843904.png",
+      "PackagePath": "staticwebassets\\Images\\soto_20240217173843904.png"
+    },
+    {
+      "Id": "C:\\Users\\SYAHRUL\\OneDrive\\Desktop\\SoupProjectApi\\SoupProject\\wwwroot\\Images\\spageti_20240217180138564.png",
+      "PackagePath": "staticwebassets\\Images\\spageti_20240217180138564.png"
+    },
+    {
+      "Id": "C:\\Users\\SYAHRUL\\OneDrive\\Desktop\\SoupProjectApi\\SoupProject\\wwwroot\\Images\\steak_20240217173558808.png",
+      "PackagePath": "staticwebassets\\Images\\steak_20240217173558808.png"
+    },
+    {
+      "Id": "C:\\Users\\SYAHRUL\\OneDrive\\Desktop\\SoupProjectApi\\SoupProject\\wwwroot\\Images\\sushi_20240217180347982.png",
+      "PackagePath": "staticwebassets\\Images\\sushi_20240217180347982.png"
+    },
+    {
+      "Id": "C:\\Users\\SYAHRUL\\OneDrive\\Desktop\\SoupProjectApi\\SoupProject\\wwwroot\\Images\\takoyaki_20240217181028695.png",
+      "PackagePath": "staticwebassets\\Images\\takoyaki_20240217181028695.png"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.SoupProject.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.SoupProject.props",
+      "PackagePath": "build\\SoupProject.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.SoupProject.props",
+      "PackagePath": "buildMultiTargeting\\SoupProject.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.SoupProject.props",
+      "PackagePath": "buildTransitive\\SoupProject.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

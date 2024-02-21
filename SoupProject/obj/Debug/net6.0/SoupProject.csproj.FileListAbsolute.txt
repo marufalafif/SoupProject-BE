@@ -1,0 +1,292 @@
+D:\PROGRAMMING RESOURCE\CODING ID\ADVANCED CLASS\PROJECT\SoupProject\SoupProject\bin\Debug\net6.0\appsettings.Development.json
+D:\PROGRAMMING RESOURCE\CODING ID\ADVANCED CLASS\PROJECT\SoupProject\SoupProject\bin\Debug\net6.0\appsettings.json
+D:\PROGRAMMING RESOURCE\CODING ID\ADVANCED CLASS\PROJECT\SoupProject\SoupProject\bin\Debug\net6.0\SoupProject.exe
+D:\PROGRAMMING RESOURCE\CODING ID\ADVANCED CLASS\PROJECT\SoupProject\SoupProject\bin\Debug\net6.0\SoupProject.deps.json
+D:\PROGRAMMING RESOURCE\CODING ID\ADVANCED CLASS\PROJECT\SoupProject\SoupProject\bin\Debug\net6.0\SoupProject.runtimeconfig.json
+D:\PROGRAMMING RESOURCE\CODING ID\ADVANCED CLASS\PROJECT\SoupProject\SoupProject\bin\Debug\net6.0\SoupProject.dll
+D:\PROGRAMMING RESOURCE\CODING ID\ADVANCED CLASS\PROJECT\SoupProject\SoupProject\bin\Debug\net6.0\SoupProject.pdb
+D:\PROGRAMMING RESOURCE\CODING ID\ADVANCED CLASS\PROJECT\SoupProject\SoupProject\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\PROGRAMMING RESOURCE\CODING ID\ADVANCED CLASS\PROJECT\SoupProject\SoupProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\PROGRAMMING RESOURCE\CODING ID\ADVANCED CLASS\PROJECT\SoupProject\SoupProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\PROGRAMMING RESOURCE\CODING ID\ADVANCED CLASS\PROJECT\SoupProject\SoupProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\PROGRAMMING RESOURCE\CODING ID\ADVANCED CLASS\PROJECT\SoupProject\SoupProject\obj\Debug\net6.0\SoupProject.csproj.AssemblyReference.cache
+D:\PROGRAMMING RESOURCE\CODING ID\ADVANCED CLASS\PROJECT\SoupProject\SoupProject\obj\Debug\net6.0\SoupProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROGRAMMING RESOURCE\CODING ID\ADVANCED CLASS\PROJECT\SoupProject\SoupProject\obj\Debug\net6.0\SoupProject.AssemblyInfoInputs.cache
+D:\PROGRAMMING RESOURCE\CODING ID\ADVANCED CLASS\PROJECT\SoupProject\SoupProject\obj\Debug\net6.0\SoupProject.AssemblyInfo.cs
+D:\PROGRAMMING RESOURCE\CODING ID\ADVANCED CLASS\PROJECT\SoupProject\SoupProject\obj\Debug\net6.0\SoupProject.csproj.CoreCompileInputs.cache
+D:\PROGRAMMING RESOURCE\CODING ID\ADVANCED CLASS\PROJECT\SoupProject\SoupProject\obj\Debug\net6.0\SoupProject.MvcApplicationPartsAssemblyInfo.cs
+D:\PROGRAMMING RESOURCE\CODING ID\ADVANCED CLASS\PROJECT\SoupProject\SoupProject\obj\Debug\net6.0\SoupProject.MvcApplicationPartsAssemblyInfo.cache
+D:\PROGRAMMING RESOURCE\CODING ID\ADVANCED CLASS\PROJECT\SoupProject\SoupProject\obj\Debug\net6.0\staticwebassets.build.json
+D:\PROGRAMMING RESOURCE\CODING ID\ADVANCED CLASS\PROJECT\SoupProject\SoupProject\obj\Debug\net6.0\staticwebassets.development.json
+D:\PROGRAMMING RESOURCE\CODING ID\ADVANCED CLASS\PROJECT\SoupProject\SoupProject\obj\Debug\net6.0\staticwebassets\msbuild.SoupProject.Microsoft.AspNetCore.StaticWebAssets.props
+D:\PROGRAMMING RESOURCE\CODING ID\ADVANCED CLASS\PROJECT\SoupProject\SoupProject\obj\Debug\net6.0\staticwebassets\msbuild.build.SoupProject.props
+D:\PROGRAMMING RESOURCE\CODING ID\ADVANCED CLASS\PROJECT\SoupProject\SoupProject\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SoupProject.props
+D:\PROGRAMMING RESOURCE\CODING ID\ADVANCED CLASS\PROJECT\SoupProject\SoupProject\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.SoupProject.props
+D:\PROGRAMMING RESOURCE\CODING ID\ADVANCED CLASS\PROJECT\SoupProject\SoupProject\obj\Debug\net6.0\staticwebassets.pack.json
+D:\PROGRAMMING RESOURCE\CODING ID\ADVANCED CLASS\PROJECT\SoupProject\SoupProject\obj\Debug\net6.0\scopedcss\bundle\SoupProject.styles.css
+D:\PROGRAMMING RESOURCE\CODING ID\ADVANCED CLASS\PROJECT\SoupProject\SoupProject\obj\Debug\net6.0\SoupProject.csproj.CopyComplete
+D:\PROGRAMMING RESOURCE\CODING ID\ADVANCED CLASS\PROJECT\SoupProject\SoupProject\obj\Debug\net6.0\SoupProject.dll
+D:\PROGRAMMING RESOURCE\CODING ID\ADVANCED CLASS\PROJECT\SoupProject\SoupProject\obj\Debug\net6.0\refint\SoupProject.dll
+D:\PROGRAMMING RESOURCE\CODING ID\ADVANCED CLASS\PROJECT\SoupProject\SoupProject\obj\Debug\net6.0\SoupProject.pdb
+D:\PROGRAMMING RESOURCE\CODING ID\ADVANCED CLASS\PROJECT\SoupProject\SoupProject\obj\Debug\net6.0\SoupProject.genruntimeconfig.cache
+D:\PROGRAMMING RESOURCE\CODING ID\ADVANCED CLASS\PROJECT\SoupProject\SoupProject\obj\Debug\net6.0\ref\SoupProject.dll
+D:\PROGRAMMING RESOURCE\CODING ID\ADVANCED CLASS\PROJECT\SoupProject\SoupProject\bin\Debug\net6.0\MySql.Data.dll
+D:\PROGRAMMING RESOURCE\CODING ID\ADVANCED CLASS\PROJECT\SoupProject\SoupProject\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\PROGRAMMING RESOURCE\CODING ID\ADVANCED CLASS\PROJECT\SoupProject\SoupProject\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\PROGRAMMING RESOURCE\CODING ID\ADVANCED CLASS\PROJECT\SoupProject\SoupProject\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\PROGRAMMING RESOURCE\CODING ID\ADVANCED CLASS\PROJECT\SoupProject\SoupProject\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\PROGRAMMING RESOURCE\CODING ID\ADVANCED CLASS\PROJECT\SoupProjectAPI\SoupProject\bin\Debug\net6.0\appsettings.Development.json
+D:\PROGRAMMING RESOURCE\CODING ID\ADVANCED CLASS\PROJECT\SoupProjectAPI\SoupProject\bin\Debug\net6.0\appsettings.json
+D:\PROGRAMMING RESOURCE\CODING ID\ADVANCED CLASS\PROJECT\SoupProjectAPI\SoupProject\bin\Debug\net6.0\SoupProject.exe
+D:\PROGRAMMING RESOURCE\CODING ID\ADVANCED CLASS\PROJECT\SoupProjectAPI\SoupProject\bin\Debug\net6.0\SoupProject.deps.json
+D:\PROGRAMMING RESOURCE\CODING ID\ADVANCED CLASS\PROJECT\SoupProjectAPI\SoupProject\bin\Debug\net6.0\SoupProject.runtimeconfig.json
+D:\PROGRAMMING RESOURCE\CODING ID\ADVANCED CLASS\PROJECT\SoupProjectAPI\SoupProject\bin\Debug\net6.0\SoupProject.dll
+D:\PROGRAMMING RESOURCE\CODING ID\ADVANCED CLASS\PROJECT\SoupProjectAPI\SoupProject\bin\Debug\net6.0\SoupProject.pdb
+D:\PROGRAMMING RESOURCE\CODING ID\ADVANCED CLASS\PROJECT\SoupProjectAPI\SoupProject\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\PROGRAMMING RESOURCE\CODING ID\ADVANCED CLASS\PROJECT\SoupProjectAPI\SoupProject\bin\Debug\net6.0\MySql.Data.dll
+D:\PROGRAMMING RESOURCE\CODING ID\ADVANCED CLASS\PROJECT\SoupProjectAPI\SoupProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\PROGRAMMING RESOURCE\CODING ID\ADVANCED CLASS\PROJECT\SoupProjectAPI\SoupProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\PROGRAMMING RESOURCE\CODING ID\ADVANCED CLASS\PROJECT\SoupProjectAPI\SoupProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\PROGRAMMING RESOURCE\CODING ID\ADVANCED CLASS\PROJECT\SoupProjectAPI\SoupProject\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\PROGRAMMING RESOURCE\CODING ID\ADVANCED CLASS\PROJECT\SoupProjectAPI\SoupProject\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\PROGRAMMING RESOURCE\CODING ID\ADVANCED CLASS\PROJECT\SoupProjectAPI\SoupProject\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\PROGRAMMING RESOURCE\CODING ID\ADVANCED CLASS\PROJECT\SoupProjectAPI\SoupProject\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\PROGRAMMING RESOURCE\CODING ID\ADVANCED CLASS\PROJECT\SoupProjectAPI\SoupProject\obj\Debug\net6.0\SoupProject.csproj.AssemblyReference.cache
+D:\PROGRAMMING RESOURCE\CODING ID\ADVANCED CLASS\PROJECT\SoupProjectAPI\SoupProject\obj\Debug\net6.0\SoupProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROGRAMMING RESOURCE\CODING ID\ADVANCED CLASS\PROJECT\SoupProjectAPI\SoupProject\obj\Debug\net6.0\SoupProject.AssemblyInfoInputs.cache
+D:\PROGRAMMING RESOURCE\CODING ID\ADVANCED CLASS\PROJECT\SoupProjectAPI\SoupProject\obj\Debug\net6.0\SoupProject.AssemblyInfo.cs
+D:\PROGRAMMING RESOURCE\CODING ID\ADVANCED CLASS\PROJECT\SoupProjectAPI\SoupProject\obj\Debug\net6.0\SoupProject.csproj.CoreCompileInputs.cache
+D:\PROGRAMMING RESOURCE\CODING ID\ADVANCED CLASS\PROJECT\SoupProjectAPI\SoupProject\obj\Debug\net6.0\SoupProject.MvcApplicationPartsAssemblyInfo.cs
+D:\PROGRAMMING RESOURCE\CODING ID\ADVANCED CLASS\PROJECT\SoupProjectAPI\SoupProject\obj\Debug\net6.0\SoupProject.MvcApplicationPartsAssemblyInfo.cache
+D:\PROGRAMMING RESOURCE\CODING ID\ADVANCED CLASS\PROJECT\SoupProjectAPI\SoupProject\obj\Debug\net6.0\staticwebassets.build.json
+D:\PROGRAMMING RESOURCE\CODING ID\ADVANCED CLASS\PROJECT\SoupProjectAPI\SoupProject\obj\Debug\net6.0\staticwebassets.development.json
+D:\PROGRAMMING RESOURCE\CODING ID\ADVANCED CLASS\PROJECT\SoupProjectAPI\SoupProject\obj\Debug\net6.0\staticwebassets\msbuild.SoupProject.Microsoft.AspNetCore.StaticWebAssets.props
+D:\PROGRAMMING RESOURCE\CODING ID\ADVANCED CLASS\PROJECT\SoupProjectAPI\SoupProject\obj\Debug\net6.0\staticwebassets\msbuild.build.SoupProject.props
+D:\PROGRAMMING RESOURCE\CODING ID\ADVANCED CLASS\PROJECT\SoupProjectAPI\SoupProject\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SoupProject.props
+D:\PROGRAMMING RESOURCE\CODING ID\ADVANCED CLASS\PROJECT\SoupProjectAPI\SoupProject\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.SoupProject.props
+D:\PROGRAMMING RESOURCE\CODING ID\ADVANCED CLASS\PROJECT\SoupProjectAPI\SoupProject\obj\Debug\net6.0\staticwebassets.pack.json
+D:\PROGRAMMING RESOURCE\CODING ID\ADVANCED CLASS\PROJECT\SoupProjectAPI\SoupProject\obj\Debug\net6.0\scopedcss\bundle\SoupProject.styles.css
+D:\PROGRAMMING RESOURCE\CODING ID\ADVANCED CLASS\PROJECT\SoupProjectAPI\SoupProject\obj\Debug\net6.0\SoupProject.csproj.CopyComplete
+D:\PROGRAMMING RESOURCE\CODING ID\ADVANCED CLASS\PROJECT\SoupProjectAPI\SoupProject\obj\Debug\net6.0\SoupProject.dll
+D:\PROGRAMMING RESOURCE\CODING ID\ADVANCED CLASS\PROJECT\SoupProjectAPI\SoupProject\obj\Debug\net6.0\refint\SoupProject.dll
+D:\PROGRAMMING RESOURCE\CODING ID\ADVANCED CLASS\PROJECT\SoupProjectAPI\SoupProject\obj\Debug\net6.0\SoupProject.pdb
+D:\PROGRAMMING RESOURCE\CODING ID\ADVANCED CLASS\PROJECT\SoupProjectAPI\SoupProject\obj\Debug\net6.0\SoupProject.genruntimeconfig.cache
+D:\PROGRAMMING RESOURCE\CODING ID\ADVANCED CLASS\PROJECT\SoupProjectAPI\SoupProject\obj\Debug\net6.0\ref\SoupProject.dll
+D:\PROGRAMMING RESOURCE\CODING ID\ADVANCED CLASS\PROJECT\SoupProjectAPI\SoupProject\bin\Debug\net6.0\BCrypt.Net-Next.dll
+D:\PROGRAMMING RESOURCE\CODING ID\ADVANCED CLASS\PROJECT\SoupProjectAPI\SoupProject\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\PROGRAMMING RESOURCE\CODING ID\ADVANCED CLASS\PROJECT\SoupProjectAPI\SoupProject\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\PROGRAMMING RESOURCE\CODING ID\ADVANCED CLASS\PROJECT\SoupProjectAPI\SoupProject\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\PROGRAMMING RESOURCE\CODING ID\ADVANCED CLASS\PROJECT\SoupProjectAPI\SoupProject\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\PROGRAMMING RESOURCE\CODING ID\ADVANCED CLASS\PROJECT\SoupProjectAPI\SoupProject\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\PROGRAMMING RESOURCE\CODING ID\ADVANCED CLASS\PROJECT\SoupProjectAPI\SoupProject\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\PROGRAMMING RESOURCE\CODING ID\ADVANCED CLASS\PROJECT\SoupProjectAPI\SoupProject\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\PROGRAMMING RESOURCE\CODING ID\ADVANCED CLASS\PROJECT\SoupProjectAPI\SoupProject\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\PROGRAMMING RESOURCE\CODING ID\ADVANCED CLASS\PROJECT\SoupProjectAPI\SoupProject\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+D:\PROGRAMMING RESOURCE\CODING ID\ADVANCED CLASS\PROJECT\SoupProjectAPI\SoupProject\bin\Debug\net6.0\MailKit.dll
+D:\PROGRAMMING RESOURCE\CODING ID\ADVANCED CLASS\PROJECT\SoupProjectAPI\SoupProject\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\PROGRAMMING RESOURCE\CODING ID\ADVANCED CLASS\PROJECT\SoupProjectAPI\SoupProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\PROGRAMMING RESOURCE\CODING ID\ADVANCED CLASS\PROJECT\SoupProjectAPI\SoupProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\PROGRAMMING RESOURCE\CODING ID\ADVANCED CLASS\PROJECT\SoupProjectAPI\SoupProject\bin\Debug\net6.0\MimeKit.dll
+D:\PROGRAMMING RESOURCE\CODING ID\ADVANCED CLASS\PROJECT\SoupProjectAPI\SoupProject\bin\Debug\net6.0\RazorEngineCore.dll
+D:\PROGRAMMING RESOURCE\CODING ID\ADVANCED CLASS\PROJECT\SoupProjectAPI\SoupProject\bin\Debug\net6.0\System.Formats.Asn1.dll
+D:\PROGRAMMING RESOURCE\CODING ID\ADVANCED CLASS\PROJECT\SoupProjectAPI\SoupProject\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\PROGRAMMING RESOURCE\CODING ID\ADVANCED CLASS\PROJECT\SoupProjectAPI\SoupProject\bin\Debug\net6.0\System.Text.Encoding.CodePages.dll
+D:\PROGRAMMING RESOURCE\CODING ID\ADVANCED CLASS\PROJECT\SoupProjectAPI\SoupProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\PROGRAMMING RESOURCE\CODING ID\ADVANCED CLASS\PROJECT\SoupProjectAPI\SoupProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\PROGRAMMING RESOURCE\CODING ID\ADVANCED CLASS\PROJECT\SoupProjectAPI\SoupProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\PROGRAMMING RESOURCE\CODING ID\ADVANCED CLASS\PROJECT\SoupProjectAPI\SoupProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\PROGRAMMING RESOURCE\CODING ID\ADVANCED CLASS\PROJECT\SoupProjectAPI\SoupProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\PROGRAMMING RESOURCE\CODING ID\ADVANCED CLASS\PROJECT\SoupProjectAPI\SoupProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\PROGRAMMING RESOURCE\CODING ID\ADVANCED CLASS\PROJECT\SoupProjectAPI\SoupProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\PROGRAMMING RESOURCE\CODING ID\ADVANCED CLASS\PROJECT\SoupProjectAPI\SoupProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\PROGRAMMING RESOURCE\CODING ID\ADVANCED CLASS\PROJECT\SoupProjectAPI\SoupProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\PROGRAMMING RESOURCE\CODING ID\ADVANCED CLASS\PROJECT\SoupProjectAPI\SoupProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\PROGRAMMING RESOURCE\CODING ID\ADVANCED CLASS\PROJECT\SoupProjectAPI\SoupProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\PROGRAMMING RESOURCE\CODING ID\ADVANCED CLASS\PROJECT\SoupProjectAPI\SoupProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\PROGRAMMING RESOURCE\CODING ID\ADVANCED CLASS\PROJECT\SoupProjectAPI\SoupProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\PROGRAMMING RESOURCE\CODING ID\ADVANCED CLASS\PROJECT\SoupProjectAPI\SoupProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PROGRAMMING RESOURCE\CODING ID\ADVANCED CLASS\PROJECT\SoupProjectAPI\SoupProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PROGRAMMING RESOURCE\CODING ID\ADVANCED CLASS\PROJECT\SoupProjectAPI\SoupProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PROGRAMMING RESOURCE\CODING ID\ADVANCED CLASS\PROJECT\SoupProjectAPI\SoupProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PROGRAMMING RESOURCE\CODING ID\ADVANCED CLASS\PROJECT\SoupProjectAPI\SoupProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PROGRAMMING RESOURCE\CODING ID\ADVANCED CLASS\PROJECT\SoupProjectAPI\SoupProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PROGRAMMING RESOURCE\CODING ID\ADVANCED CLASS\PROJECT\SoupProjectAPI\SoupProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PROGRAMMING RESOURCE\CODING ID\ADVANCED CLASS\PROJECT\SoupProjectAPI\SoupProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PROGRAMMING RESOURCE\CODING ID\ADVANCED CLASS\PROJECT\SoupProjectAPI\SoupProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PROGRAMMING RESOURCE\CODING ID\ADVANCED CLASS\PROJECT\SoupProjectAPI\SoupProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PROGRAMMING RESOURCE\CODING ID\ADVANCED CLASS\PROJECT\SoupProjectAPI\SoupProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PROGRAMMING RESOURCE\CODING ID\ADVANCED CLASS\PROJECT\SoupProjectAPI\SoupProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PROGRAMMING RESOURCE\CODING ID\ADVANCED CLASS\PROJECT\SoupProjectAPI\SoupProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PROGRAMMING RESOURCE\CODING ID\ADVANCED CLASS\PROJECT\SoupProjectAPI\SoupProject\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\PROGRAMMING RESOURCE\CODING ID\ADVANCED CLASS\PROJECT\SoupProjectAPI\SoupProject\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll
+C:\Users\SYAHRUL\Desktop\SoupProjectApi\SoupProject\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\SYAHRUL\Desktop\SoupProjectApi\SoupProject\bin\Debug\net6.0\appsettings.json
+C:\Users\SYAHRUL\Desktop\SoupProjectApi\SoupProject\bin\Debug\net6.0\SoupProject.exe
+C:\Users\SYAHRUL\Desktop\SoupProjectApi\SoupProject\bin\Debug\net6.0\SoupProject.deps.json
+C:\Users\SYAHRUL\Desktop\SoupProjectApi\SoupProject\bin\Debug\net6.0\SoupProject.runtimeconfig.json
+C:\Users\SYAHRUL\Desktop\SoupProjectApi\SoupProject\bin\Debug\net6.0\SoupProject.dll
+C:\Users\SYAHRUL\Desktop\SoupProjectApi\SoupProject\bin\Debug\net6.0\SoupProject.pdb
+C:\Users\SYAHRUL\Desktop\SoupProjectApi\SoupProject\bin\Debug\net6.0\BCrypt.Net-Next.dll
+C:\Users\SYAHRUL\Desktop\SoupProjectApi\SoupProject\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+C:\Users\SYAHRUL\Desktop\SoupProjectApi\SoupProject\bin\Debug\net6.0\MailKit.dll
+C:\Users\SYAHRUL\Desktop\SoupProjectApi\SoupProject\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\SYAHRUL\Desktop\SoupProjectApi\SoupProject\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\SYAHRUL\Desktop\SoupProjectApi\SoupProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\SYAHRUL\Desktop\SoupProjectApi\SoupProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\SYAHRUL\Desktop\SoupProjectApi\SoupProject\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\SYAHRUL\Desktop\SoupProjectApi\SoupProject\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\SYAHRUL\Desktop\SoupProjectApi\SoupProject\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\SYAHRUL\Desktop\SoupProjectApi\SoupProject\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\SYAHRUL\Desktop\SoupProjectApi\SoupProject\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\SYAHRUL\Desktop\SoupProjectApi\SoupProject\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\SYAHRUL\Desktop\SoupProjectApi\SoupProject\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\SYAHRUL\Desktop\SoupProjectApi\SoupProject\bin\Debug\net6.0\MimeKit.dll
+C:\Users\SYAHRUL\Desktop\SoupProjectApi\SoupProject\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\SYAHRUL\Desktop\SoupProjectApi\SoupProject\bin\Debug\net6.0\RazorEngineCore.dll
+C:\Users\SYAHRUL\Desktop\SoupProjectApi\SoupProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\SYAHRUL\Desktop\SoupProjectApi\SoupProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\SYAHRUL\Desktop\SoupProjectApi\SoupProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\SYAHRUL\Desktop\SoupProjectApi\SoupProject\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\SYAHRUL\Desktop\SoupProjectApi\SoupProject\bin\Debug\net6.0\System.Formats.Asn1.dll
+C:\Users\SYAHRUL\Desktop\SoupProjectApi\SoupProject\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\SYAHRUL\Desktop\SoupProjectApi\SoupProject\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\SYAHRUL\Desktop\SoupProjectApi\SoupProject\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SYAHRUL\Desktop\SoupProjectApi\SoupProject\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\SYAHRUL\Desktop\SoupProjectApi\SoupProject\bin\Debug\net6.0\System.Text.Encoding.CodePages.dll
+C:\Users\SYAHRUL\Desktop\SoupProjectApi\SoupProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SYAHRUL\Desktop\SoupProjectApi\SoupProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SYAHRUL\Desktop\SoupProjectApi\SoupProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SYAHRUL\Desktop\SoupProjectApi\SoupProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SYAHRUL\Desktop\SoupProjectApi\SoupProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SYAHRUL\Desktop\SoupProjectApi\SoupProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SYAHRUL\Desktop\SoupProjectApi\SoupProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SYAHRUL\Desktop\SoupProjectApi\SoupProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SYAHRUL\Desktop\SoupProjectApi\SoupProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SYAHRUL\Desktop\SoupProjectApi\SoupProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SYAHRUL\Desktop\SoupProjectApi\SoupProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SYAHRUL\Desktop\SoupProjectApi\SoupProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SYAHRUL\Desktop\SoupProjectApi\SoupProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SYAHRUL\Desktop\SoupProjectApi\SoupProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SYAHRUL\Desktop\SoupProjectApi\SoupProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SYAHRUL\Desktop\SoupProjectApi\SoupProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SYAHRUL\Desktop\SoupProjectApi\SoupProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SYAHRUL\Desktop\SoupProjectApi\SoupProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SYAHRUL\Desktop\SoupProjectApi\SoupProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SYAHRUL\Desktop\SoupProjectApi\SoupProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SYAHRUL\Desktop\SoupProjectApi\SoupProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SYAHRUL\Desktop\SoupProjectApi\SoupProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SYAHRUL\Desktop\SoupProjectApi\SoupProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SYAHRUL\Desktop\SoupProjectApi\SoupProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SYAHRUL\Desktop\SoupProjectApi\SoupProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SYAHRUL\Desktop\SoupProjectApi\SoupProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SYAHRUL\Desktop\SoupProjectApi\SoupProject\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\SYAHRUL\Desktop\SoupProjectApi\SoupProject\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SYAHRUL\Desktop\SoupProjectApi\SoupProject\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll
+C:\Users\SYAHRUL\Desktop\SoupProjectApi\SoupProject\obj\Debug\net6.0\SoupProject.csproj.AssemblyReference.cache
+C:\Users\SYAHRUL\Desktop\SoupProjectApi\SoupProject\obj\Debug\net6.0\SoupProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SYAHRUL\Desktop\SoupProjectApi\SoupProject\obj\Debug\net6.0\SoupProject.AssemblyInfoInputs.cache
+C:\Users\SYAHRUL\Desktop\SoupProjectApi\SoupProject\obj\Debug\net6.0\SoupProject.AssemblyInfo.cs
+C:\Users\SYAHRUL\Desktop\SoupProjectApi\SoupProject\obj\Debug\net6.0\SoupProject.csproj.CoreCompileInputs.cache
+C:\Users\SYAHRUL\Desktop\SoupProjectApi\SoupProject\obj\Debug\net6.0\SoupProject.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\SYAHRUL\Desktop\SoupProjectApi\SoupProject\obj\Debug\net6.0\SoupProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SYAHRUL\Desktop\SoupProjectApi\SoupProject\obj\Debug\net6.0\SoupProject.sourcelink.json
+C:\Users\SYAHRUL\Desktop\SoupProjectApi\SoupProject\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\SYAHRUL\Desktop\SoupProjectApi\SoupProject\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\SYAHRUL\Desktop\SoupProjectApi\SoupProject\obj\Debug\net6.0\staticwebassets\msbuild.SoupProject.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\SYAHRUL\Desktop\SoupProjectApi\SoupProject\obj\Debug\net6.0\staticwebassets\msbuild.build.SoupProject.props
+C:\Users\SYAHRUL\Desktop\SoupProjectApi\SoupProject\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SoupProject.props
+C:\Users\SYAHRUL\Desktop\SoupProjectApi\SoupProject\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.SoupProject.props
+C:\Users\SYAHRUL\Desktop\SoupProjectApi\SoupProject\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\SYAHRUL\Desktop\SoupProjectApi\SoupProject\obj\Debug\net6.0\scopedcss\bundle\SoupProject.styles.css
+C:\Users\SYAHRUL\Desktop\SoupProjectApi\SoupProject\obj\Debug\net6.0\SoupProject.csproj.CopyComplete
+C:\Users\SYAHRUL\Desktop\SoupProjectApi\SoupProject\obj\Debug\net6.0\SoupProject.dll
+C:\Users\SYAHRUL\Desktop\SoupProjectApi\SoupProject\obj\Debug\net6.0\refint\SoupProject.dll
+C:\Users\SYAHRUL\Desktop\SoupProjectApi\SoupProject\obj\Debug\net6.0\SoupProject.pdb
+C:\Users\SYAHRUL\Desktop\SoupProjectApi\SoupProject\obj\Debug\net6.0\SoupProject.genruntimeconfig.cache
+C:\Users\SYAHRUL\Desktop\SoupProjectApi\SoupProject\obj\Debug\net6.0\ref\SoupProject.dll
+C:\Users\SYAHRUL\OneDrive\Desktop\SoupProjectApi\SoupProject\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\SYAHRUL\OneDrive\Desktop\SoupProjectApi\SoupProject\bin\Debug\net6.0\appsettings.json
+C:\Users\SYAHRUL\OneDrive\Desktop\SoupProjectApi\SoupProject\bin\Debug\net6.0\SoupProject.exe
+C:\Users\SYAHRUL\OneDrive\Desktop\SoupProjectApi\SoupProject\bin\Debug\net6.0\SoupProject.deps.json
+C:\Users\SYAHRUL\OneDrive\Desktop\SoupProjectApi\SoupProject\bin\Debug\net6.0\SoupProject.runtimeconfig.json
+C:\Users\SYAHRUL\OneDrive\Desktop\SoupProjectApi\SoupProject\bin\Debug\net6.0\SoupProject.dll
+C:\Users\SYAHRUL\OneDrive\Desktop\SoupProjectApi\SoupProject\bin\Debug\net6.0\SoupProject.pdb
+C:\Users\SYAHRUL\OneDrive\Desktop\SoupProjectApi\SoupProject\bin\Debug\net6.0\BCrypt.Net-Next.dll
+C:\Users\SYAHRUL\OneDrive\Desktop\SoupProjectApi\SoupProject\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+C:\Users\SYAHRUL\OneDrive\Desktop\SoupProjectApi\SoupProject\bin\Debug\net6.0\MailKit.dll
+C:\Users\SYAHRUL\OneDrive\Desktop\SoupProjectApi\SoupProject\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\SYAHRUL\OneDrive\Desktop\SoupProjectApi\SoupProject\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\SYAHRUL\OneDrive\Desktop\SoupProjectApi\SoupProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\SYAHRUL\OneDrive\Desktop\SoupProjectApi\SoupProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\SYAHRUL\OneDrive\Desktop\SoupProjectApi\SoupProject\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\SYAHRUL\OneDrive\Desktop\SoupProjectApi\SoupProject\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\SYAHRUL\OneDrive\Desktop\SoupProjectApi\SoupProject\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\SYAHRUL\OneDrive\Desktop\SoupProjectApi\SoupProject\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\SYAHRUL\OneDrive\Desktop\SoupProjectApi\SoupProject\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\SYAHRUL\OneDrive\Desktop\SoupProjectApi\SoupProject\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\SYAHRUL\OneDrive\Desktop\SoupProjectApi\SoupProject\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\SYAHRUL\OneDrive\Desktop\SoupProjectApi\SoupProject\bin\Debug\net6.0\MimeKit.dll
+C:\Users\SYAHRUL\OneDrive\Desktop\SoupProjectApi\SoupProject\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\SYAHRUL\OneDrive\Desktop\SoupProjectApi\SoupProject\bin\Debug\net6.0\RazorEngineCore.dll
+C:\Users\SYAHRUL\OneDrive\Desktop\SoupProjectApi\SoupProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\SYAHRUL\OneDrive\Desktop\SoupProjectApi\SoupProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\SYAHRUL\OneDrive\Desktop\SoupProjectApi\SoupProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\SYAHRUL\OneDrive\Desktop\SoupProjectApi\SoupProject\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\SYAHRUL\OneDrive\Desktop\SoupProjectApi\SoupProject\bin\Debug\net6.0\System.Formats.Asn1.dll
+C:\Users\SYAHRUL\OneDrive\Desktop\SoupProjectApi\SoupProject\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\SYAHRUL\OneDrive\Desktop\SoupProjectApi\SoupProject\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\SYAHRUL\OneDrive\Desktop\SoupProjectApi\SoupProject\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SYAHRUL\OneDrive\Desktop\SoupProjectApi\SoupProject\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\SYAHRUL\OneDrive\Desktop\SoupProjectApi\SoupProject\bin\Debug\net6.0\System.Text.Encoding.CodePages.dll
+C:\Users\SYAHRUL\OneDrive\Desktop\SoupProjectApi\SoupProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SYAHRUL\OneDrive\Desktop\SoupProjectApi\SoupProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SYAHRUL\OneDrive\Desktop\SoupProjectApi\SoupProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SYAHRUL\OneDrive\Desktop\SoupProjectApi\SoupProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SYAHRUL\OneDrive\Desktop\SoupProjectApi\SoupProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SYAHRUL\OneDrive\Desktop\SoupProjectApi\SoupProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SYAHRUL\OneDrive\Desktop\SoupProjectApi\SoupProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SYAHRUL\OneDrive\Desktop\SoupProjectApi\SoupProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SYAHRUL\OneDrive\Desktop\SoupProjectApi\SoupProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SYAHRUL\OneDrive\Desktop\SoupProjectApi\SoupProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SYAHRUL\OneDrive\Desktop\SoupProjectApi\SoupProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SYAHRUL\OneDrive\Desktop\SoupProjectApi\SoupProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SYAHRUL\OneDrive\Desktop\SoupProjectApi\SoupProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SYAHRUL\OneDrive\Desktop\SoupProjectApi\SoupProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SYAHRUL\OneDrive\Desktop\SoupProjectApi\SoupProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SYAHRUL\OneDrive\Desktop\SoupProjectApi\SoupProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SYAHRUL\OneDrive\Desktop\SoupProjectApi\SoupProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SYAHRUL\OneDrive\Desktop\SoupProjectApi\SoupProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SYAHRUL\OneDrive\Desktop\SoupProjectApi\SoupProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SYAHRUL\OneDrive\Desktop\SoupProjectApi\SoupProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SYAHRUL\OneDrive\Desktop\SoupProjectApi\SoupProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SYAHRUL\OneDrive\Desktop\SoupProjectApi\SoupProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SYAHRUL\OneDrive\Desktop\SoupProjectApi\SoupProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SYAHRUL\OneDrive\Desktop\SoupProjectApi\SoupProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SYAHRUL\OneDrive\Desktop\SoupProjectApi\SoupProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SYAHRUL\OneDrive\Desktop\SoupProjectApi\SoupProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SYAHRUL\OneDrive\Desktop\SoupProjectApi\SoupProject\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\SYAHRUL\OneDrive\Desktop\SoupProjectApi\SoupProject\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SYAHRUL\OneDrive\Desktop\SoupProjectApi\SoupProject\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll
+C:\Users\SYAHRUL\OneDrive\Desktop\SoupProjectApi\SoupProject\obj\Debug\net6.0\SoupProject.csproj.AssemblyReference.cache
+C:\Users\SYAHRUL\OneDrive\Desktop\SoupProjectApi\SoupProject\obj\Debug\net6.0\SoupProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SYAHRUL\OneDrive\Desktop\SoupProjectApi\SoupProject\obj\Debug\net6.0\SoupProject.AssemblyInfoInputs.cache
+C:\Users\SYAHRUL\OneDrive\Desktop\SoupProjectApi\SoupProject\obj\Debug\net6.0\SoupProject.AssemblyInfo.cs
+C:\Users\SYAHRUL\OneDrive\Desktop\SoupProjectApi\SoupProject\obj\Debug\net6.0\SoupProject.csproj.CoreCompileInputs.cache
+C:\Users\SYAHRUL\OneDrive\Desktop\SoupProjectApi\SoupProject\obj\Debug\net6.0\SoupProject.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\SYAHRUL\OneDrive\Desktop\SoupProjectApi\SoupProject\obj\Debug\net6.0\SoupProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SYAHRUL\OneDrive\Desktop\SoupProjectApi\SoupProject\obj\Debug\net6.0\SoupProject.sourcelink.json
+C:\Users\SYAHRUL\OneDrive\Desktop\SoupProjectApi\SoupProject\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\SYAHRUL\OneDrive\Desktop\SoupProjectApi\SoupProject\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\SYAHRUL\OneDrive\Desktop\SoupProjectApi\SoupProject\obj\Debug\net6.0\staticwebassets\msbuild.SoupProject.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\SYAHRUL\OneDrive\Desktop\SoupProjectApi\SoupProject\obj\Debug\net6.0\staticwebassets\msbuild.build.SoupProject.props
+C:\Users\SYAHRUL\OneDrive\Desktop\SoupProjectApi\SoupProject\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SoupProject.props
+C:\Users\SYAHRUL\OneDrive\Desktop\SoupProjectApi\SoupProject\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.SoupProject.props
+C:\Users\SYAHRUL\OneDrive\Desktop\SoupProjectApi\SoupProject\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\SYAHRUL\OneDrive\Desktop\SoupProjectApi\SoupProject\obj\Debug\net6.0\scopedcss\bundle\SoupProject.styles.css
+C:\Users\SYAHRUL\OneDrive\Desktop\SoupProjectApi\SoupProject\obj\Debug\net6.0\SoupProject.csproj.CopyComplete
+C:\Users\SYAHRUL\OneDrive\Desktop\SoupProjectApi\SoupProject\obj\Debug\net6.0\SoupProject.dll
+C:\Users\SYAHRUL\OneDrive\Desktop\SoupProjectApi\SoupProject\obj\Debug\net6.0\refint\SoupProject.dll
+C:\Users\SYAHRUL\OneDrive\Desktop\SoupProjectApi\SoupProject\obj\Debug\net6.0\SoupProject.pdb
+C:\Users\SYAHRUL\OneDrive\Desktop\SoupProjectApi\SoupProject\obj\Debug\net6.0\SoupProject.genruntimeconfig.cache
+C:\Users\SYAHRUL\OneDrive\Desktop\SoupProjectApi\SoupProject\obj\Debug\net6.0\ref\SoupProject.dll
+C:\Users\SYAHRUL\OneDrive\Desktop\SoupProjectApi\SoupProject\bin\Debug\net6.0\SoupProject.staticwebassets.runtime.json
